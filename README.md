@@ -38,6 +38,6 @@ To become the go-to place where people find comfort and inspiration in small, me
 
 ## Join the Movement
 
-Share your #Moment01 with us on social media — how a simple cup of coffee helped change your day.
+Share your #MomentPointOne with us on social media — how a simple cup of coffee helped change your day.
 
 
