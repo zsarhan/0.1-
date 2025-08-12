@@ -36,32 +36,8 @@ To become the go-to place where people find comfort and inspiration in small, me
 
 ---
 
-## How to Visit Us
-
-- **Location:** [Add your physical address or online presence here]  
-- **Contact:** [Add contact email or phone]  
-- **Social Media:** [Links to Instagram, Facebook, Twitter]
-
----
-
 ## Join the Movement
 
 Share your #Moment0_1 with us on social media — how a simple cup of coffee helped change your day.
 
----
-
-## Contribution
-
-If you want to contribute to this project (e.g., website, app, branding), feel free to fork the repo and submit a pull request.
-
----
-
-## License
-
-[Specify your license here, e.g., MIT License]
-
----
-
-Thank you for being part of the 0.1 Café experience.  
-_Small moments create big impact._
 
